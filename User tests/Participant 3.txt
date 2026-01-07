@@ -1,0 +1,144 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: Yes
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 3,45 - 3,35 = 0,10
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 5
+
+2. I felt like the system understood what I was saying (NLU) 6
+
+3. I believe the system does not contradict itself (Coherence) 5
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 4
+
+6. It is clear to me how I can complete my goal (Confidence) 3
+
+7. I felt that the system told the story in a captivating manner (NLG) 5
+
+8. I believe that the interaction with the system is fluid (Reactivity) 4
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-The fact that it stops you from going on wrong roads
+-Nice atmosphere
+-Immersive to get in the mood
+
+What are aspects of the system that you disliked? (Also at least 3)
+-Doesnt give hints on how to actually do it
+-Doesnt help you
+-Doesnt give you hints or how to continue
+
+Is there something else you would like to mention? 
+
+-I didnt understand that we were in a group, maybe set the context better and set the scene, doesnt make a lot of sense to have the scene described setwise
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience!
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out!
+If you have any questions, feel free to ask by adressing my name: Fantasia.
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Es que Larry saigne ou c’est une maladie type grippe
+       
+Larry ne saigne pas ; il souffre plutôt d’une maladie aiguë, semblable à une forte grippe. Il est affaibli par la fièvre et a besoin de médicaments pour survivre.
+
+> 
+Hello, are you still there? If you’d like to continue, just type an action—such as searching for medicine, talking to someone in the Main Store, or asking about the area.
+> Ok dans le super marché y’a t’il du paracetamol ou des complément vitamine pour l’aider
+       
+Tu n’as pas encore fouillé le supermarché à la recherche de médicaments spécifiques comme du paracétamol ou des compléments vitaminiques. Si tu veux, je peux t’aider à chercher dans la zone pour voir ce que tu trouves.
+
+>
+Hello, are you still with me? If you’d like to continue, you can search the store for medicine, talk to someone, or ask me about anything here—just let me know!
+> Je commence à mettre Larry dans un endroit chaud et je commence à chercher ses médicament dans le supermarché
+       
+Do I understand correctly that you want to ask Larry to move to Main Store (where they already are)? Write yes to continue, anything else to cancel.
+
+> Je laisse Larry où il est et je commence mes recherches dans le magasin,est-ce que je trouve quelque chose
+       
+Okay, I won't do that. Try another action.
+
+> Je foullle lary pour voire si il a une plaie ou des médicaments sur lui
+       
+Do I understand correctly that you want to search Larry? Write yes to continue, anything else to cancel.
+
+> yes
+       
+Alright, so you check Larry for wounds or medicine, but he suddenly shoves your hands away and curses under his breath, glaring fiercely as the room tenses up—there's no medicine to be found, but you sense his patience is wearing dangerously thin.
+
+>
+Hey, just checking in—are you still with me? If you want to settle the fight with Larry, look for supplies, or talk to anyone here, just let me know what you’d like to do next.
+> Es que Larry peut me parler ou me montrer ce qu’il ne vas pas
+       
+Alright, you approach Larry—his breathing ragged, sweat glistening on his brow—and ask him what’s wrong, and he glares up at you with pain in his eyes, snapping, “You think I want to be like this? My heart—hurts—like a truck ran through me. I need those meds, now, before this gets worse,” his voice cracking with both fear and desperation.
+
+>
+Hey, just checking in—are you still with me? If you want to continue, just type what you’d like to do next—move around, talk to someone, or ask about your surroundings!
+> Appel quelqu’un pour de l’aide
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> Je crie pour de l’aide
+       
+Okay, I won't do that. Try another action.
+
+> Je demande quelle médicament a besoin Larry et je cherche dans le Magasin
+       
+Alright, you turn to Larry and ask him what medicine he needs—he grunts through gritted teeth, "Anything for my heart... nitroglycerin, pills, whatever you can find,"—but as you search frantically through the battered shelves and splintered counters of the main store, you come up empty-handed, feeling the tension in the air as time slips through your fingers.
+
+>
+Hey, just checking in—are you still with me? If you want to keep going, you can move, talk to someone, search, or ask about anything in the drugstore.
+> Es que j’ai quelque chose sur moi qui pourrait aider Larry
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> Je déshabille Larry pour voir la ou il a mal
+       
+Okay, I won't do that. Try another action.
+
+> Es que je peux transporter Larry sur mon dos pour chercher dans un autre lieu des médicaments
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> yes
+       
+Alright, you crouch beside Larry, bracing yourself to lift him onto your back, but after a painful struggle you realize there's just no way you can safely carry him in his condition, so the rest of the group just watches tensely as you try and come up with another plan.
+
+>
+Hello again! Is everything okay on your end? If you’d like to keep going, you can type an action like "break up the fight" or ask me anything about the drugstore or the people around you.
+> Ok je demande au groupe de chercher des pilules pour Larry et je reste prêt de lui en attendant les  recherches
+       
+Thank you for letting me know! Could you please specify exactly what you want to do, including who or what is involved? This will help me trigger the correct action for you.
+
+Please try again with a simpler, more precise command.
+
+>
+Hey, just checking in—are you still there? If you'd like to continue, you can type an action (like “talk to Carley” or “search the Main Store”) or ask me anything about the game.
+>
+Still with me? Right now you’re in the main store—Larry’s in a fight with you, and everyone else is nearby. You can try to stop the fight, talk to someone, or search the area; just let me know what you’d like to do!
+>
+
+
+
+
+
+

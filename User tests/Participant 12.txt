@@ -1,0 +1,138 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: Yes
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 11,47 - 11,38 = 0,09
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 5
+
+2. I felt like the system understood what I was saying (NLU) 2
+
+3. I believe the system does not contradict itself (Coherence) 1
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 4
+
+6. It is clear to me how I can complete my goal (Confidence) 1
+
+7. I felt that the system told the story in a captivating manner (NLG) 5
+
+8. I believe that the interaction with the system is fluid (Reactivity) 2
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-I found it nice that it was text based
+-I also thought the one of the tekst was nice to read
+-I liked that there were suggestions being made on what could be done
+
+What are aspects of the system that you disliked? (Also at least 3)
+-It went wrong when I asked for a definition, which I did not receive, which fractured my trust
+-Then when it started working, I wanted to understand what kind of medical supplies I'm looking for, but it was all pretty vague, so I wanted to know if a pill would've been enough or if it should've been a syringe, but it did make it feel a bit incomplete that I couldnt learn what was happening exactly
+-The first time I felt like the intro informed me more than the other times, it was a better introduction, after I gave my first input
+
+Is there something else you would like to mention? 
+-I see that it has potential, I would have liked to explore more, but from what I've done I thought it was an interesting experience that I wouldnt mind repeating
+
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Let's go!
+       
+Alright, you're in the main store with your group—shelves are toppled, tension hangs thick. What would you like to do first: search for supplies, speak to someone here, or move to another area?
+
+> What are group-shelves?
+       
+“Group-shelves” isn't a term found here—maybe you meant the regular store shelves in the main area, where supplies are kept? If you’d like, I can help you search them or describe the surroundings—what would you like to do next?
+
+> I will search for supplies
+... …
+
+(Restart game)
+
+> Ok
+       
+Alright! What would you like to do next—search the main store, talk to someone here, or try something else?
+
+> I will talk to someone
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> I want to talk to someone
+       
+Okay, I won't do that. Try another action.
+
+> Search the store
+... .  
+
+(Restart with prints to debug)
+
+> i search the place
+...    [UNDO] initial snapshot saved, count=1
+... .  [PRECHECK] raw='Clear' -> label='clear'
+[PRECHECK] label='clear'
+... .. Raw AI response:
+action:search,requested_action:0,target:0,indirect_target:0,item:0,location:Area_MainStore
+System respons:
+Lee Everett searches the area: The main area of the drugstore, with shelves and counters. Customers used to come here to buy their basic needs. It's not in great shape now. . Lee Everett doesn't discover any additional items.
+Nearby people: Clementine, Kenny, Katjaa, Duck, Carley, Doug, Lilly, Larry.
+
+[UNDO] snapshot identical to previous; not saving duplicate.
+... ...[VALIDATION][STORY] attempt 1/3 -> OK
+       
+Okay, so you spread out across the scuffed linoleum, pulling aside dusty canned goods while everyone keeps watch—including little Clementine lurking nearby—but amid battered shelves and anxious whispers, you don’t find anything worth cheering about.
+
+>
+Bye!
+
+(Restart system)
+
+> ok
+       
+Alright, you’re in the main store of your family’s drugstore, surrounded by familiar faces and tense energy. What would you like to do next?
+
+> I want to learn about the state of everybody
+       
+Everyone in the main store is visibly exhausted, anxious, and wary—each coping in their own way with the chaos outside. Larry, in particular, seems physically unwell, while the others are focused on survival and protecting those they care about.
+
+> I ask in the group what is going on with Larry so he and others can react
+       
+Sure thing—so you knock everyone out of their routine and calmly ask what’s going on with Larry, earning a glare from him as he gruffly growls out, “I can handle myself,” but Kenny leans in with concern traces on his weathered face and says evenly, "He ain't well, and yeah... we're losing time since.“
+
+> How can we help him?
+       
+Larry needs medical supplies urgently if you want to save him. Is there anything in the store or nearby that could help, or do you recall any place where your family kept first aid items?
+
+> search the store for medical supply or anything that can be used medically
+...    
+
+(Abandon)
+
+
+
+
+
+
+
+
+

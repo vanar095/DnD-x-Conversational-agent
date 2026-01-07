@@ -1,0 +1,155 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 2,55 - 2,43 = 0,12
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 3
+
+2. I felt like the system understood what I was saying (NLU) 3
+
+3. I believe the system does not contradict itself (Coherence) 3
+
+4. I can understand what the system tells me (Clarity) 7
+
+5. I believe the system answered my questions correctly (Competence) 7
+
+6. It is clear to me how I can complete my goal (Confidence) 3
+
+7. I felt that the system told the story in a captivating manner (NLG) 5
+
+8. I believe that the interaction with the system is fluid (Reactivity) 3
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-Exciting story to which the system gave a contribution, nice storytelling
+
+What are aspects of the system that you disliked? (Also at least 3)
+-Needs an upgrade concerning in GPS related training
+
+Is there something else you would like to mention? 
+-You can improve location awareness by using GPS
+-How did you guys train this model?
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> where am I?
+       
+You’re in the Main Store of your family’s drugstore, surrounded by battered shelves and counters that once served customers. The air is tense, and the place feels both familiar and foreign in the midst of the apocalypse.
+
+> Ok, can you help me with healing one of my mates?
+       
+Of course, I can guide you. What exactly is wrong with your friend, and do you already have any medical supplies or do you need help finding them?
+
+> All I can say is that he's hurt badly, so maybe we need to find bandages close to where I am now?
+       
+Alright, you rummage desperately through the battered shelves and scattered boxes in the main store, but all you find is dust and the broken echoes of normal life—nothing at all that could help stop Larry's bleeding, while behind you Duck sighs impatiently and Clementine quietly asks, "Do you think he'll be okay?"
+
+> Can you help me to find the exact spot where we can find the medical aid?
+       
+I cannot see any visible medical supplies in the main store itself. You may need to explore connected areas, like the storage room, to find what you’re looking for.
+
+> Good idea, I'll take Duck with me in case we will be attacked by intruders
+       
+Alright, you glance over and nod at Duck, who lights up with excitement and eagerly falls in step at your side, ready for whatever might jump out from the gloom of the drugstore as you prepare to search for desperately-needed medical supplies.
+
+> Clementine will watch Larry, we have now 2 minutes to reach the drugstore, please show the right direction
+       
+It seems you tried to ask someone to "watch," but Lee doesn't know how to request that action in this context. Could you clarify exactly who you want Lee to ask, and what you want them to "watch" or look after?
+
+Please try again with a simpler, more precise command.
+
+> Show me the drugstore asap
+       
+Alright, so you stride toward the back of the drugstore, intent on reaching the pharmacy, but as you push past dusty shelves, your heart sinks—the way there is completely lost behind collapsed debris and darkness, leaving the medicine, and maybe your only hope for Larry, frustratingly out of reach.
+
+> But I am not alone Clementine is with me and we found an electric vehicle that brings us outside via the emergency exit.
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> What would you suggest?
+       
+Okay, I won't do that. Try another action.
+
+> I head towards the emergency exit, right?
+       
+Alright, you slip toward the emergency exit, but as soon as you step into the Front Entrance, the sickening stench of death hits you and two snarling zombies—one ugly, one angry—lurch toward you, arms outstretched, forcing you and Duck into a desperate fight for your lives!
+
+> We back off
+       
+Alright, you burst back through the battered doors into the Main Store, heart pounding as you leave the howling undead behind—every face inside snaps toward you, relief and fear mixing in their eyes as the sounds of struggle outside fade away for now.
+
+> Now we ask you to find the right exit to reach the pharmacy
+       
+Understood, I need to know which specific person you want to interact with. Please tell me the name of the character you're referring to.
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> cancel
+       
+Okay, we'll cancel that action. Try something else.
+
+> I see a storage that is still untoched, shall I enter
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> We go back to Clementine and Larry, unable to help them
+       
+Okay, I won't do that. Try another action.
+
+> We open the toilet window and escape without being noticed by the zombies
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> Advice us
+       
+Okay, I won't do that. Try another action.
+
+> We take the stairs outside the building and climb on the roof
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> We crawl to the basement and discover medical aid for Larry  
+       
+Okay, I won't do that. Try another action.
+
+> We look into an empty office and I find a box with medical aid for Larry, ok?
+       
+Ah, it looks like "empty office" isn't a known location right now. Could you specify a place you’ve already discovered, like the Main Store, Front Entrance, or Storage Room?
+
+Please try again with a simpler, more precise command.
+
+> It's the empty Storage Room
+       
+You haven't discovered the Storage Room yet, so you can't go there right now. Would you like to search the Main Store or try another action?
+
+> Yes please let'z find the Storage Room now
+       
+Alright, so you start rummaging through the battered shelves and dusty counters of the old drugstore, but even as Duck bumps into a precarious tower of boxes, you come up empty-handed—no hidden doors, no supplies, just the heavy, nervous silence of the group and the faint thumping of something moving elsewhere behind the walls.
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: 
+
+Endresult (complete, out-of-time, game-over, quit): 
+
+Cost:
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM)
+
+2. I felt like the system understood what I was saying (NLU)
+
+3. I believe the system does not contradict itself (Coherence)
+
+4. I can understand what the system tells me (Clarity)
+
+5. I believe the system answered my questions correctly (Competence)
+
+6. It is clear to me how I can complete my goal (Confidence)
+
+7. I felt that the system told the story in a captivating manner (NLG)
+
+8. I believe that the interaction with the system is fluid (Reactivity)
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+
+What are aspects of the system that you disliked? (Also at least 3)
+
+Is there something else you would like to mention? 
+
+
+(Paste terminal prompt log of session)
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,136 @@
+Immediate:
+Adjust parser to reduce load and fit local LLMs
+-> maybe transform in json
+
+
+Testing:
+Check how good parsing is 
+-> Test intent recognition on ambiguous actions, harm, use item, talk, move, errors
+-> Generate system states (position, inventory, npc positions)
+-> Test standard phrasing and "realistic" phrasing 
+
+Test experience
+-> Is the story interpretable for the user?
+-> Is the system fun to use? 
+-> 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Game:
+*Implement consecutive actions
+-> Allow fast travel by mentioning an item or a place
+-> Allow precise selection of characters during an action, and [ALL]
+-> Introduce handling of interruptions (fights, NPC speaks to you etc)
+-> First ask LLM to split into multiple small actions, then run into setup we have now
+        -> For now, just for movement (!)
+-> Enhance validation of actions to account for multiple action truth
+*Also doing a check if for friendship with NPC and targeted character (does not harm friendly, or help enemy)
+*Parsing bug, if requested action is full when no action is requested, drop it
+
+
+
+*Implement gamble module 
+    -> Depending on player stats, let certain actions happen (generate new content) (later)
+*Dynamic descriptions based on current NPCs and past actions 
+
+UI:
+*Create different symbols for certain world states
+*Allow clicking on map to fast travel
+*Different videos and sounds per area?
+
+Conversational agent:
+*Engage after periods of silence -> go into conversation mode and ask
+*Ask questions mainly:
+    -Ask for confirmation if a perhaps absurd action is taken (asking an ally to hit you, attacking an ally, suicide
+    , letting go of important items)
+*Allow player to ask questions, differentiate between active exploring and questions towards the system
+    -> Make sure information that can be forwarded alligns with what the player actually knows (for this, knowledge needs to work)
+*Create modules that check if what is being outputted is not bullshit
+*Handle multi-intended input 
+*Incoherent user not helpable under some conditions 
+*Make the system mixed initiative, key to success (for now simple)
+*Implement conversational markers, confirmation and grounding
+*Have the player play against evil AI and good AI, where evil AI plays characters that are hostile towards the player, and good AI 
+    their allies 
+    -> How to design this? Cannot move all characters at once. Too much computational power and likely overwhelm player
+    -> One thing is for sure, the forward pass and character knowledge need to work as intended
+    Possible design:
+        Each AI can pick a set of characters or groups (2-3 friendly and hostile) and move them around. The game log gets saved
+        to give the AI context on what has been done already. In addition to this, a counter goal is deviced for the evil AI. 
+        So its for each character: selection -> decide 
+        If the player decides to adress an NPC or multiple, the AI is urged to respond to this, as well as in the other way around,
+        the AI responds if the player ignores them 
+
+Questions to ask:
+*How to make LLM run faster? Cheaper? Locally? 
+*Is this a good system design?
+*How to implement the selective intent recognition? 
+*Suggestions for grounding properly (avoid halucinations)? Idea of having LLM check itself, how good?
+*What do we want to/can we automate statically and what through AI?
+
+Chitchat = open domain dialogue 
+
+Evaluation:
+-> Evaluate NLU by evaluating intent recognition and slot accuracy, through F1 and accuracy
+-> Maybe more fine-grained, classify which intents are not working well 
+
+
+Study plan:
+*Move all to locally run LLM
+*Implement multi initiative system -> After 2-3 turns, system causes action from an NPC, prompting a reponse (harm, talk, ask action)
+-> Do with LLM or just standardized? 
+*Test intent recognition on ambiguous actions, harm, use item, talk 
+*Check story generation with Bleu etc to see if key elements are being named and not too much halucinated 
+-> Implement checking module with LLM
+*Finalise system 
+*Project is supposed to be just with LLMs, so make a comparison between static and LLM agent
+
+
+1. meta-llama/llama-3.1-8b-instruct
+
+8B instruct model, fast and efficient, 131k context.
+
+This is exactly the kind of thing your V100 16GB is built for (if you self-hosted it).
+
+Great general-purpose chat, reasoning and coding; very popular baseline.
+
+2. qwen/qwen-2.5-7b-instruct
+
+7B model with strong math, coding and multilingual abilities (including Italian), up to 128k context.
+
+On par with or a bit above Llama 3.1 8B on many benchmarks; an excellent “powerful but still light” model.
+
+If you’re coding-heavy, you can also look at:
+
+qwen/qwen2.5-coder-7b-instruct – tuned specifically for code generation / bug-fixing, also up to 128k context.
+
+3. google/gemma-2-9b-it
+
+9B instruction-tuned Gemma 2, designed to be state of the art for its size and very efficient.
+
+Slightly heavier than what you’d comfortably run on your V100, but via OpenRouter you get its full performance without worrying about VRAM.
+
+Strong for chat, reasoning, and general development tasks.
+
+4. deepseek/deepseek-r1-distill-llama-8b
+
+8B Llama-3.1-based model distilled from DeepSeek R1, explicitly targeting strong reasoning: AIME 2024 pass@1 ≈ 50.4, MATH-500 pass@1 ≈ 89.1.
+
+This is like “Llama 3.1 8B but with extra reasoning sauce.”
+
+Very good match for what a tuned 8B reasoning model on your V100 would feel like.
+
+5. (Optional) perplexity/llama-3.1-sonar-small-128k-online
+
+An 8B-ish Llama-3.1-based model optimized by Perplexity, with 128k context and a focus on factual, retrieval-style answers.
+
+Nice if you want “assistant that behaves like a search-enhanced model,” but it’s more opinionated in behaviour.
+
+
+
+--------------------------------------------------------------------------
+*Keep more complex track of all the states (emotions, previous context, timing)
+

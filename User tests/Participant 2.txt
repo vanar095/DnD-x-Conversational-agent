@@ -1,0 +1,178 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: Yes
+
+
+Endresult (complete, out-of-time, game-over, quit): Quit at 14:48
+
+Cost: 3,65-3,47 = 0,18
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 4
+
+2. I felt like the system understood what I was saying (NLU) 4
+
+3. I believe the system does not contradict itself (Coherence) 2
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 4
+
+6. It is clear to me how I can complete my goal (Confidence) 4
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 5
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-Being able to ask questions
+-Gave more context with some prompt, the storytelling
+
+What are aspects of the system that you disliked? (Also at least 3)
+-The contradictions of the system that blocked my progress
+
+Is there something else you would like to mention? 
+Might help to give more context at the beginning, very confusing in the beginning what you can do and how this game can be played
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> neger
+       
+I'm here to keep things friendly and respectful. Let's focus on the story—what would you like your character to do in the main store next?
+
+> i would 
+Hey, just checking in—are you still with me? If you’d like to continue, you can type an action you want Lee to take or ask me about something in the drugstore or with the group.
+> i want to go to the drug store 
+       
+Okay, so you head toward what you think is the pharmacy, searching for any sign of the back room, but the cluttered aisles and toppled shelves block your path, leaving an uneasy feeling as the location of the medicine remains a frustrating mystery.
+
+> is there a way around those cluttered isles?
+       
+The aisles are quite cluttered, making movement difficult, but with patience and caution, you might be able to navigate around them. You'll need to watch your step and move slowly to avoid making noise or drawing attention.
+
+> what kind of drug for larry am i looking for?
+       
+You’re looking for heart medication—anything that could help treat Larry’s heart problems, like nitroglycerin or similar medicine. If you spot any prescription bottles labeled for heart conditions, those would be the priority.
+
+> then i look for the heart drug isle
+       
+Alright, so you glance around the battered shelves in the Main Store, hoping to spot anything marked “pharmacy,” but all you see are empty pill bottles and dusty candy wrappers—looks like you’ll need to get to the Pharmacy itself if you want a real shot at saving Larry.
+
+> okay, so i head to the pharmacy
+       
+Alright, you try heading to the Pharmacy, but as you push past the cluttered shelves and battered counters, you realize there's no clear path or familiar door in sight—somehow, the way is lost to you, shrouded in the confusion and damage of the store.
+
+> i look for an emergency exit
+       
+Alright, you weave around dusty shelves and broken counters searching for an emergency exit, your heart pounding as anxious murmurs ripple through the group, but you come up empty-handed—there’s nothing but battered merchandise and the tense faces of your companions watching your every move.
+
+> i back track to the way i came in
+       
+Alright, so you retrace your steps through the busted doors to the front entrance and find yourself face-to-face with two snarling zombies—Angry and Ugly—who lurch toward you the moment you appear, their rotten arms outstretched and teeth gnashing for flesh!
+
+> i bash their heads in with a baseball bat
+       
+Whoa, just as you lunge in and swing your baseball bat at the snarling zombies, your grip slips and you end up smashing your flashlight instead—Ugly Zombie lets out a low, guttural moan as the blow lands, but clearly it's not enough to stop the dead from clawing towards you!
+
+> i grab my knife to pierce their skulls
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> i call for my companions to help
+       
+Okay, I won't do that. Try another action.
+
+> i push the zombies to the ground and get away from them
+       
+Alright, so you bash both zombies with your flashlight, sending them stumbling back with nasty groans, and then sprint through the door into the battered main store, slamming it behind you as the chaos of the fight fades and everyone glances your way, wide-eyed and breathless.
+
+> next, i go to the pharmacy
+       
+Alright, you look for a way to the pharmacy, but the shelves and wreckage block your path and you realize, with a growing sense of frustration and urgency, that you can’t even spot the door from here—just the cracked tiles leading deeper into shadow.
+
+> i look for an emergency exit route, used for fires, to find my way out
+       
+Alright, so you start poking around the battered shelves and broken counters of the main store, eyeing every dusty corner and faded sign for an emergency exit map—but with the power flickering and the chaos, you come up with nothing, and everyone looks tenser as you realize escape isn’t as simple as a fire drill.      
+
+> how do i get out of the store?
+       
+To get out of the store, you must move from the Main Store to the Front Entrance. However, remember: the dead are still outside, so caution will be essential.  
+
+> i carefully move to the front entrance, looking for the dead outside the store
+       
+Alright, you inch your way to the front entrance, your heart pounding as you spot not one, but two snarling zombies already stumbling toward you, hungry eyes fixed on your every move—looks like you’ll have to fight if you want to survive this!
+
+> i distract the dead by throwing a soda can at one of the cars outside the store so the dead will go 
+Hello, just checking in—are you alright? If you’d like to keep playing, you can type an action like "fight," "move back inside," or ask me anything about your situation!
+> to the car
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> is there a way to avoid fighting with the zombies?  
+       
+Okay, I won't do that. Try another action.
+
+> is there a way to avoid fighting with the zombies?
+       
+Avoiding a fight with the zombies is possible if you can quickly move to a safer area like the Main Store or use something to distract them. Acting fast and thinking creatively increases your odds of survival.
+
+> i distract the zombies by throwing someting so they go after that
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> how do i distract the zombies
+       
+Okay, I won't do that. Try another action.
+
+> how do i distract the zombies?
+       
+Zombies are usually drawn to loud noises or sudden movement. If you have anything that can make a sound—like throwing an object or turning on a device—you could use it to lure them away.
+
+> i throuw a music box, that is turned on, to lure the zombies away from the front entrance
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> i split my team in two to fight the zombeis
+       
+Okay, I won't do that. Try another action.
+
+> i split my team in two to fight the zombies
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> i grab my gun and shoot the zombies in the head
+       
+Okay, I won't do that. Try another action.
+
+> i grab my gun and shoot the zombies in the head
+       
+It looks like you tried to interact with a "Handgun," but there isn't one present in the Front Entrance. If you want to try again, please specify an item that is actually here, or tell me what you'd like to do next!
+
+Please try again with a simpler, more precise command.
+
+
+
+
+
+
+
+
+
+

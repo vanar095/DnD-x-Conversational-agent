@@ -1,0 +1,187 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 2,23 - 2,00 = 0,23
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 4
+
+2. I felt like the system understood what I was saying (NLU) 2
+
+3. I believe the system does not contradict itself (Coherence) 2
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 3
+
+6. It is clear to me how I can complete my goal (Confidence) 3
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 3
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-I liked that it tried to give me tips to bring me back, though I didnt really know what to do with it
+-The storytelling was interesting and good
+
+What are aspects of the system that you disliked? (Also at least 3)
+-Felt like the interaction was confusing 
+-I felt that it was strange that sometimes I inserted something but then it gave error, but then I did it again and then it did it
+-I felt stuck and there was no way of advancing, maybe it would have helped getting more information on the current state
+
+Is there something else you would like to mention? 
+-I'm not sure if its just me who doesnt know how to manage this kind of system
+-It might really help getting more infos in, but I guess I could have also asked more
+-It also might help to get options or something like that, its not clear what you can do
+-Time pressure slightly prevented them from asking questions
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Ready
+       
+You stand in the Main Store, surrounded by familiar faces and the ruins of your family’s business. What would you like to do next?
+
+> Go to Larry
+       
+Do I understand correctly that you want to move to Main Store (where you already are)? Write yes to continue, anything else to cancel.
+
+> yes
+       
+You’re already in the Main Store, so there’s nowhere to move right now. Would you like to interact with someone or explore another area instead?
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> talk to larry
+       
+Action 1: Lee Everett is already in Main Store.
+
+> Talk to Larry
+       
+Alright, you approach Larry, who’s propped against a shelf and looking pale, and as you try to break the tense silence with some small talk, he glares up at you, gritting his teeth: “If you’ve got something to say, spit it out, or let me die in peace,” his voice raspy but proud, the room’s anxiety settling awkwardly around the two of you.
+
+> Where are your wounds?
+       
+(ERROR: response could not be generated for storytelling.)
+
+> Can someone help us?
+       
+Lee Everett currently knows only the people present in the Main Store; "everyone" is too vague. Please specify by naming which character or characters you want to address for your action.
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> Who are the other people?
+       
+(ERROR: response could not be generated for storytelling.)
+
+> I want to address Larry and ask him where he is wounded 
+       
+Alright, so you turn to Larry, who's huffing painfully on the floor, and ask, "Larry, where are you hurt?"—he glares back through clenched teeth and mutters, "My chest... feels like it's on fire, kid," before coughing roughly as Katjaa hurries over, her concern making the whole group tense in grim silence.
+
+> Which items are there in 
+Hey, just checking in—are you alright? If you’re ready, you can type an action or ask me anything about the game to continue your adventure in the Main Store.
+> the main store? 
+       
+You currently only know about the items you're carrying: Lee's Jeans, Lee's Shirt, and a Flashlight. If you wish, you can search the main store to discover any other items that may be present.
+
+> yes
+       
+I feel your resolve, but I need a bit more—what would you like to do here in the main store? You can move, talk to someone, search for items, or use something.
+
+> I want to search the main store
+       
+Alright, you begin rummaging through toppled shelves and shattered display stands in the main store, but aside from dust and scattered wrappers, you come up empty-handed while the others glance your way, worry etching their faces as Larry's ragged breathing fills the tense, silent air.
+
+> Is anyone else carrying something? 
+       
+You can't see anyone else visibly carrying anything at the moment—just your own jeans, shirt, and flashlight. Would you like to ask someone directly or search a specific person?     
+
+> i want to ask Katjaa  
+       
+(ERROR: response could not be generated for storytelling.)
+
+> I want to search other rooms of the store
+       
+Alright, you wander the battered aisles, determined to find a way into the other rooms, but the pharmacy door eludes you—somewhere hidden in the darkness of the store, its entrance remains a mystery for now.
+
+> Switch on flashlight
+       
+Alright, you flick on your flashlight, its weak beam bouncing across the dust-choked shelves and broken counter, but the gloomy barricade ahead remains stubbornly in your way, just as impenetrable as before.
+
+> I want to open the door to the pharmacy 
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> Who else is in the store with me?
+       
+Okay, I won't do that. Try another action.
+
+> Who else is in the store with me?
+       
+Right now, you share the Main Store with Carley, Clementine, Doug, Duck, Katjaa, Kenny, Larry, and Lilly. Each of these people is weathering the apocalypse alongside you, each with their unique abilities and burdens.
+
+>
+Hey there, just checking in—everything alright on your end? If you’d like to continue, you can move to another area, talk to someone, or search for those medical supplies—just let me know what you want to do!
+>
+Welcome back—just checking in, are you ready to continue? Right now you're in the main area of the drugstore with your group; you could talk to someone, search the store for supplies, or head to another room—what would you like to do?
+> Head to another room
+       
+Alright, as you slip into the storage room, the flicker of broken lights glancing off half-open boxes, a sickening snarl erupts from the shadows—a female zombie lunges at you from behind a battered shelf, and suddenly you’re fighting for your life!
+
+> run away
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> search for supplies
+       
+Okay, I won't do that. Try another action.
+
+> search for supplies
+       
+Alright, you shuffle through battered boxes and dust-caked shelves beneath the flickering bulb, when your hand brushes against cold steel—a heavy Fire Axe gleams up at you, but before you can savor your find, a guttural snarl tears through the silence as the Female Zombie shambles from the gloom, her milky eyes fixed hungrily on you.
+
+> fight the zombie
+       
+Alright, as you heft your flashlight and swing with all your might at the lurching Female Zombie, the beam cracks her across the temple with a sickening thud, but she barely staggers back before letting out a low, hungry moan and stumbling even closer—the flickering light making her silhouette look even more monstrous.
+
+> run away
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> go back to the main store
+       
+Okay, I won't do that. Try another action.
+
+> go back to the Main Store
+       
+Alright, so you step back into the battered Main Store, shelves looming in the half-light and the rattled group catching their breath as the echoes of chaos fade—Kenny claps you on the shoulder, Clementine’s wide eyes track you, and you realize for a moment that in the uneasy silence, they're all looking to you for what comes next.
+
+> Search the store for supplies
+       
+Okay, so you scour the dusty shelves and broken counters of the store for any sign of supplies, but after digging through empty boxes and hearing Duck noisily knock over a can behind you, your hands come up empty.
+
+
+
+
+
+

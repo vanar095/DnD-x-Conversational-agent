@@ -1,0 +1,135 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 3,35 - 3,24 = 0,11
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 6
+
+2. I felt like the system understood what I was saying (NLU) 7
+
+3. I believe the system does not contradict itself (Coherence) 3
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 6
+
+6. It is clear to me how I can complete my goal (Confidence) 2
+
+7. I felt that the system told the story in a captivating manner (NLG) 7
+
+8. I believe that the interaction with the system is fluid (Reactivity) 6
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-You got a response fast and quite elaborate
+-And in the end you got suggestions, that was nice
+
+What are aspects of the system that you disliked? (Also at least 3)
+-Had no idea what I had to do, like whom to talk to
+-That I ran out of time
+
+Is there something else you would like to mention? 
+-Maybe give the "are you still there" not so fast, it went before I could respond
+-Except for that, its pretty nice
+
+
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+>
+Hey, just checking in—are you still with me? If you want to keep going, you can explore the Main Store, search for supplies, or ask me anything about your surroundings!
+> What kind of pain has Larry?
+       
+Larry is experiencing severe chest pain, hinting at a possible heart problem. He’s in urgent need of medical supplies to stabilize his condition.
+
+> Do you have any medicines for severe chest pain?
+       
+You don't have any medicines for severe chest pain right now—just your clothes and a flashlight. Would you like to search the area or talk to someone for help?
+
+> Yes can you search the area?
+       
+You begin searching the Main Store, inspecting shelves and counters for anything useful. Do you want to focus your search on medical supplies, food, tools, or just look through everything?
+
+>
+Just checking in—are you still with me? If you’d like to keep going, you can search for supplies, talk to someone here in the Main Store, or ask me anything about your options.        
+> Can you search for the medical supplies?
+       
+Alright, you start digging through battered shelves and broken boxes for medical supplies—dust coats your fingers, and everyone is watching you with anxious hope, but the only thing you turn up is disappointment as you come up empty-handed, prompting Larry to groan in pain and Clementine to whisper, "Keep looking, please."
+
+> Are there any other items in the store to help him?
+       
+You’ve already searched the main store, but found no additional items beyond what you currently possess. If you wish to look elsewhere, you might try another area or speak with someone nearby for hints.
+
+> Is there somebody else with medical knowledge?
+...    
+Hello, just making sure you’re still with me—everything okay on your end? If you want to continue, you can chat with someone nearby or head to the storage room or front entrance; just type what you’d like to do next!
+       
+It seems your last action involved a person, but you didn’t specify who you meant. Please tell me the name of the character you want to interact with or target!
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> I want to talk to fantasia about the medical help Larry need
+       
+Action 1: It is not clear which person is meant?
+
+>
+Hey, just checking in—everything alright on your end? If you’d like to keep going, you can move around, talk to someone, search for supplies, or ask me about the people or places here.
+> I want to talk to fantasia about the medical help Larry need
+       
+Larry is in urgent need of medical supplies, though the specifics of his condition aren’t fully clear from what you know so far. Tell me, what makes you most worried about his health—are you seeing any particular symptoms?
+
+>
+Hey there, just checking in—are you alright? Whenever you’re ready, you can look around the store, talk to someone, or ask me anything about your situation.
+> Larry has severe chest pain
+       
+Alright, you crouch beside Larry, worry tightening your voice as you ask about his chest pain, and through gritted teeth, Larry spits, "It feels like an elephant sitting on me, kid... can't... catch my damn breath," while Lilly snaps, "We need to find something, now!" and the air grows heavy with the fear that you might not have much time left.
+
+>
+Just checking in—are you still with me? If you’re ready to continue, you can move, talk to someone, search the area, or ask about anything in the store.
+> Is it possible to clear his airway?
+       
+Yes, it's possible to clear Larry's airway if it's blocked—quick intervention could help, but his condition looks severe and time-sensitive. Would you like to check for obstructions or ask someone for medical advice?
+
+> Can I ask someone for medical advise?
+       
+Yes, you can ask someone nearby for medical advice. Katjaa, being a trained veterinarian, would be a sensible choice—shall I assist you in approaching her?
+
+> Can you ask Katjaa what we should do to help Larry?
+       
+Of course. Would you like me to approach Katjaa and ask her for advice on treating Larry's condition, or do you wish to handle the conversation yourself?
+
+> I would like you to approach katjaa to ask for advise
+       
+Alright, as you step over to Katjaa and quietly ask for her advice on Larry's desperate state, she presses her lips together anxiously and says, "He's in pretty bad shape—without the right medicine, I don't know how much longer he has...do you think you can get into the pharmacy?"
+
+> Yes I can go to the pharmacy, what should I get there?
+... ...
+Hey there, just checking in—are you still with me? If you want to talk to someone, search the store, or do anything else, just type it in and I’ll help!
+       
+Alright, you try to head for the pharmacy, but realize there’s no obvious way in from the main store, leaving you staring at dusty shelves and peeling paint while the tension in the room grows thicker by the second.
+
+
+
+
+
+
+
+
+

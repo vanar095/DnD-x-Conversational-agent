@@ -1,0 +1,54 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They are timed.
+They may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia. 
+Models: GPT4.1, deepseek-v3.2, 
+
+Participant conditions (OpenAi, DeepSeek, Mistral -> Around GPT 4.1 capabilities): Deepseek
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 3,00 - 2,98 = 0,02
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 1
+
+2. I felt like the system understood what I was saying (NLU) 1
+
+3. I believe the system does not contradict itself (Coherence) 4
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 2
+
+6. It is clear to me how I can complete my goal (Confidence) 3
+
+7. I felt that the system told the story in a captivating manner (NLG) 3
+
+8. I believe that the interaction with the system is fluid (Reactivity) 1
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-The resume that came after each input, it was clear what modifications my input would effect
+
+What are aspects of the system that you disliked? (Also at least 3)
+-Time constraint, meaning the fact that the system was telling me that I was taking too long and interrupting
+
+Is there something else you would like to mention? 
+-Not sure I was useful
+-Maybe I would need different kind of settings, the prints were a bit bothersome
+
+
+
+
+
+
+
+
+
+

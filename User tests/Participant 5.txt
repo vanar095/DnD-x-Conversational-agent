@@ -1,0 +1,145 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): Quit at 13:16
+
+Cost: 3,24 - 3,08 = 0,16
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 2
+
+2. I felt like the system understood what I was saying (NLU) 1
+
+3. I believe the system does not contradict itself (Coherence) 1
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 3
+
+6. It is clear to me how I can complete my goal (Confidence) 3
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 2
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-The answers were complete and formulated properly, so the storytelling was good and exciting
+-That the system responds quickly and clearly
+
+What are aspects of the system that you disliked? (Also at least 3)
+-The description you receive is incomplete, there was nothing mentioned about a zombie apocalypse and that I was with a group
+-The system contradicted itself quite often, for example when I found the knives and then I wanted to use them and they suddenly diseapeared, that was quite obstructive
+-The warning you give is nice, but it doesnt actually do anything with it, like it doesnt complete my action
+-It wasnt clear to me how to do anything, like I felt like I just go thrown out there, no hints or nothing, which is a frustrating way to play the game. Of course you dont want to make the game too easy where you win right away, but if not that then what should I do? If it doesnt guide you then you're really left stranded out there.
+
+Is there something else you would like to mention? 
+-Technically it works well, you get your response fast and all that, so the model works well
+-One tipp would be make it a fun puzzle to solve, so it really motivates someone to solve it, right now it was really just frustrating, give them some hints on how to continue
+-Especially for do_nothing, it seems important to let people know how they could actually continue
+
+Hi and welcome to the AI storytelling experience!
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out!
+If you have any questions, feel free to ask by adressing my name: Fantasia.
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Hi fantasia, whats going on with larry? W  
+Hey there, just checking in—everything alright on your end? If you want to keep going, you can explore the store, search for supplies, or ask me anything about your surroundings.                      Hi fantasia, whats going on with larry? What kind of injuries does he have?
+       
+Larry’s not wounded, but he’s suffering from a serious heart condition—without proper medication, he’s in real danger. Finding those medical supplies is crucial if you want to keep him alive.
+
+> Hi fantasia, can I alarm the emergency services and can you provide me with more details about his heart condition?
+       
+Emergency services can’t be reached—the world is in chaos, so you’re on your own. As for Larry, his heart condition is critical: he’s at risk of a serious episode without immediate access to heart medication, such as nitroglycerin.
+
+> Search the store for nitroglycerin
+       
+Alright, you scour the ruined aisles and empty shelves for nitroglycerin—desperation twisting in your gut as you find nothing but dust, wrappers, and the silent, worried glances of the others who know time is running out for Larry.
+
+> open up all the shelves and anything where the medication could be hiddemn
+       
+Alright, you dig through every dusty shelf and rummage behind counters, the emptiness of the store pressing in on you, but despite your desperate search for medication, there’s nothing but broken bottles and useless wrappers—Duck pipes up, “Is it time for snacks yet?” earning a sharp look from Lilly as tension creeps higher and hope feels just a little thinner.
+
+> can you look arou
+Hey, just checking in—are you still with me? If you’d like to continue, you can ask about people around you, move to another area, or try using or searching for items—whatever you need!
+can you look around for an aed?
+       
+Alright, you search every battered shelf and rummage frantically behind the counter for an AED, but all you find are empty packages, spilled pill bottles, and faded receipts—Kenny glances over and shakes his head, muttering, "No luck, huh?" while Larry coughs hoarsely in the corner and the rest of the group anxiously waits for any sign of hope.
+
+> ask the people that are present in the store to spread out and look for this medicine in neighbouring stores
+       
+Alright, so you tell everyone to fan out and search for the medicine, and while Kenny, Duck, and Doug head into the Storage Room—where a crash and angry moan signal they've already run into a zombie—Clementine, Katjaa, and Carley look uneasy, unable to find an exit to the pharmacy as hope flickers and fades in their worried eyes.
+
+> grab the knives that are present in the store and perform a live heart transplantation with Duck
+Hey, just checking in—are you still with me? If you want to keep going, you can type an action, ask about the drugstore, or decide what Lee should do next.
+> > grab the knives that are present in the store and perform a live heart transplantation with Duck
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.    
+
+> yes
+       
+Alright, so you quickly glance around for surgical tools and the idea flashes through your mind, but all you find are rusted kitchen knives and terrified faces—there’s no way to save Larry with some wild, makeshift surgery, so the world stands still in uncertainty, heavy with the knowledge that some things just can’t be fixed.
+
+> clean the rust off of the knives and find for disinfection liquid and ask larry and duck to lay down
+       
+It looks like you wanted to interact with "knives," but Lee doesn’t see any item by that name in the Main Store or his inventory. Could you specify a different item you’d like to use, or describe where you think the knives might be?
+
+Please try again with a simpler, more precise command.
+
+> rusty kitchen knive
+       
+I don't see a rusty kitchen knife anywhere in the Main Store or in your inventory. Could you tell me where you want to look for it, or would you like to search the area for sharp objects?
+
+> leave the store and look outside the store for help or medication 
+       
+Alright, you push open the battered door and step out into the chaos of the front entrance, but before you can even catch your breath, two snarling zombies—one grotesque, the other furious—lunge at you from the shadows, leaving no time for searching as your heart slams against your ribcage and their rotten hands reach for your throat!
+
+> defend yourself lock the medecine store and stay inside
+       
+You tried to use an item, but you didn’t specify which one. Please tell me exactly which item you want Lee Everett to use.
+
+Please try again with a simpler, more precise command.
+
+> push the zombie away from you, stand back and lock the door
+       
+Understood, it looks like you tried to move Lee Everett to the Front Entrance, but he's already there. If you'd like to do something else in this area, just let me know your next action!
+
+Please try again with a simpler, more precise command.
+
+> solve the puzzle
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.    
+
+> yes
+       
+Alright, you stand there at the battered front entrance, tension thick in the air as those two zombies stare ahead mindlessly and your heart thuds with urgency, but whatever puzzle you try to solve just slips through your fingers—nothing happens, and for a moment, the only sound is the distant moan of the dead outside.
+
+> am I dead?
+       
+No, you are not dead. You are still alive, but currently engaged in a dangerous fight with two zombies at the front entrance.
+
+> push the zombies away from the front entrance, close the door and stay inside
+       
+Understood—could you please specify which item you want Lee Everett to use in this situation? Just tell me the item's name or description.
+
+Please try again with a simpler, more precise command.
+
+
+
+
+
+
+
+

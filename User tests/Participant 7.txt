@@ -1,0 +1,140 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: Yes
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 2,75 - 2,55 = 0,20
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 6
+
+2. I felt like the system understood what I was saying (NLU) 6
+
+3. I believe the system does not contradict itself (Coherence) 7
+
+4. I can understand what the system tells me (Clarity) 7
+
+5. I believe the system answered my questions correctly (Competence) 6
+
+6. It is clear to me how I can complete my goal (Confidence) 5
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 5
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-It doesnt get hampered by the fact that you give out-of-bounds input, even if it doesnt change anything in the game its nice to see it play with the input
+-The majority of things you ask work
+-The redirection (hitting with flashlight) can be amusing
+
+What are aspects of the system that you disliked? (Also at least 3)
+-Sometimes when looking up the door it didnt give me the response that I wanted
+-Like, some suggestions were really useless and didnt amount to anything
+
+Is there something else you would like to mention? 
+-Maybe give the intro with a bit more detail, it wasnt clear what the setting was exactly
+-The answer when I looked at the door it didnt teach me anything more, so it didnt help
+
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> decrit mes les allentours 
+       
+Autour de toi s’étend le magasin principal, avec ses rayons en désordre et ses comptoirs usés par le temps. Plusieurs survivants se tiennent là, leurs visages préoccupés, tandis que la lumière défaillante révèle un chaos tranquille depuis longtemps installé.
+
+> est ce que je peux avoir des précisions sur ses blessures
+       
+Larry souffre de blessures sérieuses, mais à ce stade, tu ignores si ce sont des morsures de zombie ou des coups soutenus. Son état est critique : il a besoin de soins médicaux urgents, sans quoi il ne survivra probablement pas.
+
+> regarde s'il y a pas un rayon pharmacie 
+       
+Alright, you scan the shattered, dusty shelves around you for any hint of a pharmacy section, but all you find are toppled toiletries and scattered snacks—the pharmacy must be deeper inside the store, definitely out of reach from this spot.
+
+> cette boutique, est ce qu'il y a des dangers potentiels ou cest une route safe?
+       
+Cet endroit n’est pas à l’abri du danger : le chaos du dehors menace, et ici aussi tout peut changer rapidement. Pour l’instant, rien de menaçant n’est visible dans la grande salle, mais prudence reste de mise.
+
+> Je commence à avancer dans la direction de la pharmacie
+       
+Alright, you push your way through fallen boxes and broken shelves, but every step tightens the knot in your chest as you realize—there's no clear path to the pharmacy from here, and for a second, the uncertainty of your family's store becomes almost suffocating.
+
+> j'avance de maniere prudente
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> yes
+       
+Alright, you take a careful step forward, every creak of the floorboards echoing in your ears as the group quietly eyes your cautious advance—there’s an uneasy tension in the stale air, but for now, nothing happens.
+
+> je suis à combiens de minutes de ma destination?
+       
+Ta destination exacte dépend de ce que tu vises, mais pour trouver des fournitures médicales pour Larry, il te faudra d'abord quitter la "Main Store" et explorer d'autres zones du magasin. Cela pourrait prendre quelques minutes, selon les obstacles ou découvertes sur ton chemin.
+
+> je continue à avancer pour trouver la pharmacie toujours en prudence
+       
+Ok, you move carefully through the debris-filled aisles of the main store, searching for any hint of the pharmacy’s location, but all you find are dusty shelves and broken signs, leaving you with a sinking feeling as you realize the path forward isn’t as obvious as you hoped—somewhere in the silence, Clementine whispers, “Do you remember where the medicine used to be?”
+
+> est-ce que je me souviens d'un endroit d'ou je pourrais acceder a la pharmacie completement vérrouillé? 
+       
+Tu te souviens vaguement qu’il existait autrefois un couloir qui reliait la réserve à la pharmacie à l’arrière du magasin. Cependant, tu ne vois aucun accès direct depuis la zone principale pour l’instant, tout semble verrouillé ou disparu dans la confusion actuelle.
+
+> je souffle deux secondes pour me destresser et avoir des idees clairs pour trouver un chemin clair pour atteindre la pharmacie 
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> yes
+       
+Alright, you pause and take two deep breaths, letting the tense hush of the ruined store wash over you as your mind races for a safe path to the pharmacy, but nothing around you changes—except that for just a moment, the world feels eerily still.
+
+> je me rends on face d'ou devrait etre le coulloir qui relit la pharmacie a larriere du magasin
+       
+Alright, so you move to the back of the store, facing where the hallway to the pharmacy should be, only to find rows of battered shelves and a locked door—your heart sinks as you realize the way through isn't here, the pharmacy's entrance seemingly lost in the chaos of your family's ruined store.
+
+> est-ce qu'il a un objet dans l'alleantours que je pourrais utiliser pour debloquer la porte?
+       
+Pour l’instant, tu n’as repéré qu’une lampe torche (flashlight) dans la Main Store et rien d’autre qui pourrait t’aider à débloquer une porte. Tu pourrais peut-être fouiller les environs pour découvrir un outil utile.
+
+> comment la porte est elle verouille? Cest une chaine ou elle est verouille à clef?
+       
+Tu ne sais pas encore comment la porte est verrouillée. Il faudrait examiner la porte de plus près ou demander à quelqu’un pour obtenir cette information.
+
+> j'essaie dexaminer la porte de plus pres
+       
+Okay, so you lean in closer to examine the battered door, squinting through the grime-streaked glass, and you catch a glimpse of two shadowy figures lurking just outside—your heart stutters as you realize the dead haven't moved on yet, their tangled forms shuffling in the street, waiting.
+
+> je pars a chercher un outil utile pour ouvrir cette porte
+       
+Alright, so you sneak into the storage room searching for a tool to open the door when, under the harsh flicker of a dying lightbulb, a snarling female zombie lurches at you, forcing you into a desperate fight for your life!
+
+>
+Hello, is everything alright on your end? Whenever you’re ready, you can fight the female zombie, search the storage room, investigate the blocked pharmacy door, or ask me any questions about your options.
+> je reussis a lui mettre un coup assez forte aux jambes pour qu'il tombe
+       
+Alright, you swing your flashlight with all your strength, smashing it hard against the zombie's legs—there's a sickening crack as the blow lands, and the creature staggers, nearly tumbling to the grimy floor before letting out a guttural groan that echoes through the flickering shadows of the storage room.
+
+
+
+
+
+
+
+

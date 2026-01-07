@@ -1,0 +1,148 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No 
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 11,62 - 11,47 = 0,15
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 4
+
+2. I felt like the system understood what I was saying (NLU) 3
+
+3. I believe the system does not contradict itself (Coherence) 3
+
+4. I can understand what the system tells me (Clarity) 5
+
+5. I believe the system answered my questions correctly (Competence) 3
+
+6. It is clear to me how I can complete my goal (Confidence) 2
+
+7. I felt that the system told the story in a captivating manner (NLG) 5
+
+8. I believe that the interaction with the system is fluid (Reactivity) 3
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-Really cool idea, such a game has a great appeal
+-Its nice that it doesnt work differently from those old RPGs, that it has great potential
+
+What are aspects of the system that you disliked? (Also at least 3)
+-In the beginning I was very enthusiastic, but quickly became frustrated because I felt like it wasnt clear what was happening, also the fact that I needed to repeat miltiple times before something worked, and the time-out of the system was annoying
+-It was confusing, cuz I asked again after restarting cuz when the game restarted I couldnt go to the hallway anymore
+-I felt like sometimes you need to be very specific in your formulation, but sometimes I felt more guided at random by the system, I didnt feel like I knew what was going on
+
+Is there something else you would like to mention? 
+(Nothing)
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Fantasia, wo befinde ich mich?
+       
+Du befindest dich im Hauptbereich des Drugstores—dem Main Store. Um dich herum stehen Regale und Theken, die Spuren früherer Zeiten tragen, doch jetzt herrscht hier ein Hauch von Verfall und Unsicherheit.
+
+> Wo befinde ich mich?
+       
+Du befindest dich derzeit im Main Store, dem Hauptbereich des Drugstores deiner Familie. Die Regale und Theken um dich herum erinnern an bessere Zeiten, doch jetzt liegt ein Hauch von Verfall und Ungewissheit in der Luft.
+
+> Was muss ich finden?
+       
+Dein aktuelles Ziel ist es, medizinische Vorräte zu finden, um Larry das Leben zu retten. Alles dreht sich darum, in diesem Chaos die richtigen Medikamente oder Verbandsmaterialien aufzutreiben.
+
+> Wie ist Larry verletzt?
+       
+Larry leidet unter Herzproblemen und hat einen akuten Anfall bekommen, vermutlich ausgelöst durch Stress. Um ihn zu retten, braucht er dringend passende Medikamente aus der Apotheke.
+
+> Wie kann ich die passenden Medikamenten finden?
+       
+Um die passenden Medikamente zu finden, solltest du herausfinden, wo sich die Apotheke oder ein Medikamentenlager befindet. Vielleicht weiß jemand aus deiner Gruppe mehr darüber, wo solche Vorräte aufbewahrt werden.
+
+> Bin ich alleine?
+       
+Nein, du bist nicht allein. In der Main Store befinden sich Carley, Clementine, Doug, Duck, Katjaa, Kenny, Larry und Lilly zusammen mit dir.
+
+> Wer aus meiner Gruppe, weiss, wo sich die Apotheke befindet?
+       
+Okay, you turn to Carley and quietly ask, "Hey, do you remember where the pharmacy is?"—Carley slightly literally tenses, looking uneasy, then finally responds, "It's all changed up with the chaos... but check the hallway aback and to your right, near where we used to hang birthday cards—you should find the door labeled Pharmacy there."
+
+> Gehe zur Apotheke
+       
+Alright—even squinting your eyes beneath Hudled shelter shelves and recognizing Raptors-poster straightaway, you stumble across balled limbs futile on rust-Carvolt hled creation bookshelf stacked nearest the inactive metal Gr-Alej SP-VS swingneeYKi punk avant båtiWND footsteps disabling because, somehow… You have no real sense of the pharmacy's direction anymore.
+
+> Wo bin ich?
+       
+Du stehst im Hauptbereich des Drogeriemarkts, umgeben von Regalen und Theken, wo früher die Kunden ihre Einkäufe erledigten. Der Ort ist heruntergekommen, doch hier haben sich mehrere Überlebende versammelt.
+
+> Go to the hallway back and to your right
+       
+Alright, you stride toward the back, wedge the fragile storage door open, and suddenly come face-to-face with a female zombie jolting hungrily out of the wavering light, her sudden hiss shattering the quiet and signaling an unavoidable struggle!
+
+> kill the zombie
+... .  
+
+(Restart system)
+
+> go to the hallway
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> who out of my group knows something about where this pharmacy is?
+       
+Okay, I won't do that. Try another action.
+
+> > who out of my group knows something about where this pharmacy is?
+       
+From what you know, no one in your group has directly mentioned knowledge about the pharmacy's location yet. You may need to ask them individually or search the Main Store for more clues.
+
+> inspect the main store
+...    
+
+(Restart system)
+
+> where am I?
+       
+You’re standing in the Main Store of your family’s drugstore in Macon. It’s not what it used to be—shelves are in disarray and survivors like Carley, Clementine, and others are here with you, all trying to stay alive.
+
+> What do I have to do?
+       
+You need to find medical supplies to save Larry—his life depends on it. The rest of your choices will shape how you and the group survive this chaos.
+
+> WHere can I find the medicine?
+       
+You don’t currently know the exact location of the medicine, but areas connected to the Main Store—like the Storage Room—are possible places to search. Exploring these connected rooms might reveal what you need.
+
+> which places I can go from here?
+       
+From the Main Store, you can access the Front Entrance and the Storage Room. These are your current known exits—perhaps one holds what you seek.
+
+> go to the storage room
+       
+OK, you enter the cramped Storage Room, shadows from that flickering bulb sliding across overturned boxes only for a terrible groan to cut the silence—a blood-streaked Female Zombie shuffles forward to swipe at you, and your transformation from desperate scavenger into a split-second survivor begins NOW.
+
+
+
+
+
+
+
+
+
+

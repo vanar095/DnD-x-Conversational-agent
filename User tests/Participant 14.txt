@@ -1,0 +1,178 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): 
+
+Cost: 11,24 - 11,12 = 0,12
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 4
+
+2. I felt like the system understood what I was saying (NLU) 3
+
+3. I believe the system does not contradict itself (Coherence) 6
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 5
+
+6. It is clear to me how I can complete my goal (Confidence) 3
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 5
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-It answered quite a few of my questions, but I guess I didnt know how to ask the right questions
+
+What are aspects of the system that you disliked? (Also at least 3)
+-I felt confused, not aware where things were lying and all, there's nothing visual telling you where to find what, though this did improve over time I feel like
+-It gave me quite often that it couldnt do something, would be nice to give a reason as to why, that would help navigate
+
+Is there something else you would like to mention? 
+-I thought 15 minutes was a bit short, I just started liking it and getting good at it
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Ja
+       
+I’m here and ready to help! What would you like to do next in the Main Store?
+
+> Find larry
+       
+Do I understand correctly that you want to search Larry? Write yes to continue, anything else to cancel.
+
+> yes
+       
+You check Larry for anything useful—your fingers pulling urgently at his pockets when Jamie-like groaning breaks the distance: with trembling shaky words, he narrows his one-band bruised eyes and yells, “Keep ~with me~ d’yu hear? Don’t touch my damn stuff again, or you’ll regret it!” throwing so hard he leaves claw-compression marks try glancing at your wrist, forcing a loud altercation Lotta angry echoes fill the shop.
+
+> Find out whats wrong with Larry
+       
+Alright, you step closer as Larry grumbles from the floor, his hand pressed sternly to his chest; he breathes hard but grits out to you: "Something hurts… goddamnit… it won't stop!", clutching his collar as the pool of sweat literally soaks available fabric around his chin.
+
+> Find out how to save larry
+       
+Alright, pressing gently, you sit near Larry—pale, sweating—and quietly ask, “How can I help save you?” as he breathes laboriously, glaring before mumbling with stubborn urgency, “I just need nitroglycerin pills—far as I know, only shoot of keeping my heart pumping, so figure it out, would ya?”.    
+
+> Get nitrgolycerin pills
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> Get nitroglycerin pills and bring them to Larry
+       
+Okay, I won't do that. Try another action.
+
+> Find something else to keep his heart pumping
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> what is an alternative to nitroglycerin pills?
+       
+Okay, I won't do that. Try another action.
+
+> Is there a doctor in the neighbourhood?
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> ask for a doctor in the neighbourhood
+       
+Okay, I won't do that. Try another action.
+
+> Fantasia, I dont know where to get nitroglycerin pills
+       
+Nitroglycerin pills are often found in pharmacies or medical supply areas—perhaps searching the storage room or checking any pharmacy section nearby could help. Would you like guidance on how to reach those areas or search for supplies?
+
+> yes
+       
+Great! Do you want to search for medical supplies in the storage room, try to stop the fight with Larry, or do something else? Let me know what action you’d like to take next.
+
+> Yeah the medical supplies in the storage room
+       
+Understood, you want to search for medical supplies in the storage room. Do you want to move there now, or try to stop the fight with Larry before heading out?
+
+> which fight?
+       
+There’s a fight happening right now in the Main Store between you (Lee Everett) and Larry. What would you like to do about it?
+
+> I would like to stop it and then go to the medical supplies
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> stop the fight
+       
+Okay, I won't do that. Try another action.
+
+> go to the medical supplies in the storage room
+       
+Alright, you quietly pick your way past piles of musty cardboard boxes, headed uneasily toward whatever medical supplies crumple along the back wall, but the prezence of the battered female zombie under the buzzing flashlight suddenly snaps your attention wide open as she jerks toward you hungrily! 
+
+> sneak away from the side of the zombie and find the nitroglycerin pills f
+ast
+       
+Do I understand correctly that you want to move to Storage Room (where you already are)? Write yes to continue, anything else to cancel.
+
+>
+
+Lee Everett hesitates, unsure what to do.
+
+> find the nitroglycerin pills
+       
+Okay, I won't do that. Try another action.
+
+> Fantasia, why cant I find the nitroglycerin pills?
+       
+The nitroglycerin pills are likely still in the pharmacy, but the door from the storage room is barricaded, preventing you from searching there. You'll need to find a way to get past the blockade to continue your search.     
+
+> remove the blockage from the entry of the pharmacy
+       
+To proceed, please specify which item you want Lee Everett to use. Let me know the name of the item you’re referring to.
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+
+> a fire axe
+
+You've spotted the fire axe—good eye. Would you like to pick it up, use it on something, or try something else?
+
+> i would like to pick it up and use it to clear the entrance of the pharmacy
+
+It's done: swinging hard, you seize the heavy fire axe and with a ringing crunch headfirst-through the haze smash the blockaded door until splinters soar—letting inside not just eerie phosphor-lit dust swirls from the beyond, but finally a slim path, broken cracks savage in the wreckage—to the mysterious darkness of the gutted pharmacy, opportunity crackling wider round you.
+
+> find a flashlight
+... .. 
+
+(System end)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

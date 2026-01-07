@@ -1,0 +1,165 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 2,87 - 2,75 = 0,12
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 6
+
+2. I felt like the system understood what I was saying (NLU) 4
+
+3. I believe the system does not contradict itself (Coherence) 2
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 5
+
+6. It is clear to me how I can complete my goal (Confidence) 4
+
+7. I felt that the system told the story in a captivating manner (NLG) 5
+
+8. I believe that the interaction with the system is fluid (Reactivity) 5
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-The storytelling was good, it built the story, was not just raw descriptions, there was sensation, atmosphere
+-How the system role played well
+-And how it tries to give hints
+
+What are aspects of the system that you disliked? (Also at least 3)
+-When there was an error, it took a few questions to get back on track, disruptive
+-The answers were a bit fixed like for example when you try to take it out of bounds it handles it poorly, too rigged, not free nor creativw
+
+Is there something else you would like to mention? 
+-Maybe I should have asked more, Larry should be a more crucial part within the game, could give more hints
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience!
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out!
+If you have any questions, feel free to ask by adressing my name: Fantasia.
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> can we actually heal larry?
+       
+Healing Larry is possible if you manage to find the right medical supplies in time. Your immediate choices and resourcefulness will determine whether he survives.
+
+> where is he hurt?
+       
+You don't yet know exactly where Larry is hurt; that detail hasn't been shared or discovered. You may need to talk to someone who was caring for him or examine him to find out more.
+
+> I reach those people and I ask where is larry hurt
+       
+(ERROR: response could not be generated for storytelling.)
+
+> i look around in the drugstore and I look for some disinfectant
+       
+Alright, you poke through the battered shelves and dusty counters of the main store looking for disinfectant, but aside from faded candy wrappers, some empty pill bottles, and a forlorn coloring book, you come up empty—Kenny whistles impatiently from behind while Duck absently thumps a can against the floor, the sense of urgency only deepening as Larry coughs raggedly.
+
+> i go to larry and I ask him are you injured externally?
+       
+Alright, you kneel beside Larry as he glares up in pain, sweat beading on his pale forehead, and when you ask, “Are you injured externally?”, he snaps, “No, it’s not a cut, dammit—it’s my heart, kid, so unless you’ve got pills, don’t waste my time,” leaving the air heavy with urgency and the worried glances of the others burning into your back.
+
+> there is a pharmacy outside the drugstore?
+       
+The drugstore used to have an attached pharmacy, though your memory is foggy about its exact entrance from here. Perhaps exploring further inside or asking someone for directions might help clarify.
+
+> i reach someone whos in the drugstore and ask him it them where I can find some pills?
+       
+Alright, so you find Kenny hunched over an empty shelf and ask, “Hey, do you know where I can find any pills around here?", and he scratches his beard, glancing at the others before replying, “Man, if there are any, they'd be in the pharmacy in the back—problem is, that door’s jammed tighter than a crab shell, but Doug might know how to get us in.”
+
+> i go to doug and ask him how can I get inside the pharmacy?
+       
+Do I understand correctly that you want to move to Main Store (where you already are)? Write yes to continue, anything else to cancel.
+
+> yes
+       
+You’re already standing in the Main Store, so moving there again isn’t possible. If you’d like to go somewhere else or interact with someone or something here, just let me know what you want to do! 
+
+Please try again with a simpler, more precise command.
+
+> i ask Doug if he knows how to get inside the pharmacy 
+       
+Alright, you lean in and quietly ask Doug if he has any idea how to get into the pharmacy, and he nervously adjusts his glasses before replying, “I… uh, I think there’s an old security door in the back, but it’s locked—if we can find the key or maybe the code, I might be able to help get us through.”
+
+> i look around in the store if I can find some kind of key
+       
+Alright, you rummage desperately through dusty shelves and behind battered counters, but find nothing resembling a key—only the anxious faces of your group watching every move as the eerie quiet of the ruined store presses in around you.
+
+> I look around in the store if I can find an axe or a knife or something sharp 
+       
+Alright, you rummage through the dim aisles and toppled shelves for anything sharp—a knife, an axe, even a pair of scissors—but your search comes up empty, while Duck pipes up excitedly from behind the counter, "Did you find something cool?" but disappointment lingers in the air as everyone waits for good news.
+
+> i ask everyone if they can help me open the door of the pharmacy
+       
+To proceed, I need to know exactly which item you want Clementine to use. Please specify the item for Clementine’s action.
+
+Please try again with a simpler, more precise command.
+
+> i ask clementine to find a key or some pills
+       
+Alright, you gently ask Clementine to help search for a key or some pills, but after a careful look around the battered shelves and scattered debris, she shakes her head and whispers, "Sorry, I couldn't find anything," while the uneasy silence weighs heavily on everyone waiting for hope.
+
+> i look around for a heavy object this time which requires at least two people to lift it
+       
+Alright, so you scan the battered shelves and scattered debris for anything heavy enough to need two people, but all you find is broken displays and dusty boxes that crumble at your touch—Doug glances over with a nervous half-smile, his hands twitching as if ready to help, but there's nothing here to budge.
+
+> I ask doug if he has an idea
+       
+Alright, you lean in toward Doug and quietly ask if he has any ideas, and after a thoughtful pause, Doug adjusts his glasses and replies, “Well, if we can get to the back, maybe I can figure out a way to power up the security gate—might keep us safer, at least for now," as Duck tugs on his sleeve, curious and fidgety in the tense silence.
+
+> i take doug and I go away from the other people and I tell him that the only solution is to kill larry before he becomes a zombie 
+       
+Alright, you quietly pull Doug aside from the others and slip into the flickering gloom of the storage room—just as a low, hungry groan echoes from the shadows behind scattered boxes, you tell Doug, voice tight with dread, “The only way—we have to kill Larry before he turns,” and Doug’s eyes go wide, panic trembling in his whisper: “Lee, are you serious? There has to be another way!”
+
+> find it
+       
+Could you clarify what you’d like to find? Are you searching for a specific item, person, or something else in the Storage Room?
+
+> i ask doug to find another solution
+       
+ask Doug to do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel.
+
+> yes
+       
+It looks like "do_nothing" isn't a recognizable action that Lee can request from others—requests need to be for specific, meaningful actions. Please specify what you’d actually want Doug to do or refrain from asking him for an action entirely.
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> i ask doug how can we power up the security gate
+       
+Action 1: Lee Everett doesn’t know how to ask someone to 'do_nothing'.
+
+> i ask doug if he has an idea on how to kill larry without a knife or a weapon
+       
+Alright, you turn to Doug and, lowering your voice so the lumbering zombie in the storage room can't hear, you whisper, "Doug, if we had to deal with Larry—without a knife or a weapon, what would you do?", and Doug’s eyes go wide behind his glasses as he stammers, "Kill him? Man, Lee, are you sure? I—I mean, blunt force, maybe, but... I really hope it doesn't come to that."
+
+> i say to doug yes this is the only solution before we all get killed by larry probably so if he knows where I can find a weapon we can end it without any suffering
+       
+(ERROR: response could not be generated for storytelling.)
+
+
+
+
+
+
+
+
+
+
+

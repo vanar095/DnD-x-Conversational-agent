@@ -1,0 +1,119 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: No
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 11,38 - 11,24 = 0,14
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 3
+
+2. I felt like the system understood what I was saying (NLU) 4
+
+3. I believe the system does not contradict itself (Coherence) 7
+
+4. I can understand what the system tells me (Clarity) 5
+
+5. I believe the system answered my questions correctly (Competence) 4
+
+6. It is clear to me how I can complete my goal (Confidence) 4
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 2
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-If you couldnt do something, it will tell you that it does not help the goal
+-The description of the scenery were pretty detailed
+-Every time you restarted you could continue and it would understand
+
+What are aspects of the system that you disliked? (Also at least 3)
+-It took a few restarts to work properly because it kept getting stuck
+-It was confusing what to do, they tell you you have to look for medicine, but then you dont know how to do it
+-You dont really feel the pressure of somebody dying, it would help set the scene
+-Visuals needed, then you know more whats going on
+
+Is there something else you would like to mention? 
+(Nothing)
+
+
+
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out!
+If you have any questions, feel free to ask by adressing my name: Fantasia.
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> Ok
+       
+Alright, you’re in the main store with the group—what would you like to do next? You can talk to someone, search the area, or try something else entirely.
+
+> Search the area
+       
+Alright then, you rummage your way across filthy, half-empty shelves—over glass fragments, tumbled packages, a crushed teddy bear—feeling everyone’s anxiety quietly simmer as you turn up nothing.   
+
+> check packages
+       
+Alright, as you yank open boxes, rooting briskly among the shattered shelving alongside snatches of conversation from scared survivors, you scent nothing but stiff cardboard and flooded memories—each soggy package disappoints, cleared out long ago by invisible hands.
+
+> Ask the people what should we do?
+... …
+
+(System restart)
+
+> ask the people what should we do?
+       
+Alright, you speak up—"What do we do now?"—and Kenny grumbles, "We're running outta time—if we're getting Larry his meds, someone better make a move–and soon," while Katjaa squeezes his hand and quietly insists, “That’s right, we need medicine–or he’s as good as...” as Duck blurts, “If we kick a zombie, will cud make 'em go away?”, each person reacting tense and fast under the store’s flickering lights and mounting pressure.
+
+> search for medicine
+       
+Hey, so you step up and start tense, almost frantic, scanning the different shelves sprawled in confusing disarray around you for any medicinal supplies, but with every bitter packet and dust-coated headache tablet you turn over, it's painfully obvious the serious stuff you'll need to save Larry must be back in the pharmacy—with everyone's voices trailing off while the place hums with desperate panting, reminding you how deeply those fears throb just beneath the quiet in moments like this…
+
+> go to pharmacy
+... .. 
+
+(System restart)
+
+> go to pharmacy
+       
+Alright, so as you duck past Doug and Bee—Duck shaking distracted fingers behind limp cough-masking ears—you pace determinedly to where you *think* the radio crow impressions sounded heraldux-esteem-entrywards and barrels…clang: this wall hitches there's definitely no path into the pharmacy–it’s not clear even *rip*mazing stored wartoarii blueprintily stark memories serving how someone’s even been getting inside! It shouldn’t be reassuring that except’d scratchlock per Jenn digestive Condo bang upDanaiddel distracted DayNeverfftind mechanicpseb-life.word again nobody is entirely when here anyhow…!
+
+> search the area
+       
+Alright, you scan through sagging shelves and leap over splintered debris, retracing memories of sunlit counters crowded with weekend shoppers, but this forgotten wreck doesn't turn up any tools or medicine, only dull echoes disturbed by little Duck failing to feed crumbs to an invisible puppy under broken brochures.
+
+> get the wreck and get the wall down
+... .  
+Hey, just checking in—are you still with me? If you want to keep going, you can move to another room, talk to someone here, or ask me anything about the drugstore or your goal.
+       
+do nothing. This action would not result in tangible change in the game as it is not within the game mechanics. Would you like to carry it out anyway Write yes to continue, anything else to cancel. 
+
+> what other rooms are there?
+       
+Okay, I won't do that. Try another action.
+
+> search for medicine
+... …
+
+(System end)
+
+
+
+
+
+
+
+
+

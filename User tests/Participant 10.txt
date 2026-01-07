@@ -1,0 +1,202 @@
+Participant is not given any help from the researcher.
+They are instructed to finish the game within 15 minutes, this means giving medicine to the NPC Larry. 
+They know that they are timed and that they may quit earlier if they desire to do so.
+All uncertainties or questions are to be asked to the CA Fantasia, the researcher does not respond.
+The game is played in the command prompt.
+
+Plays RPGs regularly: Yes 
+
+Endresult (complete, out-of-time, game-over, quit): Out-of-time
+
+Cost: 11,89 - 11,63
+
+Questionaire (likert scale out of 7):
+Not at all | Not really | Maybe not | No opinion | Maybe yes | Pretty much | Absolutely 
+The following questions are asked orally: 
+
+1. I enjoyed playing this game (DM) 4
+
+2. I felt like the system understood what I was saying (NLU) 5
+
+3. I believe the system does not contradict itself (Coherence) 5
+
+4. I can understand what the system tells me (Clarity) 6
+
+5. I believe the system answered my questions correctly (Competence) 2
+
+6. It is clear to me how I can complete my goal (Confidence) 6
+
+7. I felt that the system told the story in a captivating manner (NLG) 6
+
+8. I believe that the interaction with the system is fluid (Reactivity) 4
+
+Interview questions:
+
+What are aspects of the system that you liked? (Prompt to name at least 3)
+-Liked the storytelling, it was really like a story
+-I liked that the AI didnt give you huge blocks of text
+-The objective was clear, but even the sub-objectives too
+
+What are aspects of the system that you disliked? (Also at least 3)
+-When I asked something, it gave me multiple errors, but it didnt give me an exact reason
+-Sometimes the requests took too long 
+-The fact that it halucinates, like when I try to refer to something it mentioned and it's just not there anymore
+
+Is there something else you would like to mention? 
+-It would good if in your game there would be a visual indication what you've got on you all the time, so I dont have to keep track all the time
+
+
+
+Bidirectional BlockadeEvent initialized between Storage Room and Pharmacy.
+Hi and welcome to the AI storytelling experience! 
+In this game, you play as the character Lee Everett and can do (almost) whatever you want by spelling it out! 
+If you have any questions, feel free to ask by adressing my name: Fantasia. 
+
+You are in here with other people trying to survive as well, but one guy is hurt badly: Larry.
+You win this session by finding a way of healing him.
+Now, if you feel ready to start, type something out and press enter!
+
+> who are with me beside larry please?
+       
+Alongside Larry, you are surrounded by Carley, Clementine, Doug, Duck, Katjaa, Kenny, and Lilly in the Main Store. Each of them is dealing with the chaos in their own way.
+
+> What do they have?
+       
+You currently only know about your own items: Lee's Jeans, Lee's Shirt, and a flashlight. If you'd like to find out what the others have, you could talk to them or search their belongings—what would you like to do?
+
+> Where am I?
+       
+You’re in the Main Store of your family’s drugstore in Macon—a once-busy place, now battered by the apocalypse. It’s cluttered with shelves and counters, and several survivors are here with you.
+
+> Talk with Carley
+       
+Sure thing! You brush dust off your sleeve, glance toward Carley tallying bullets in the dust-filtered light, and start talking, and in reply she sighs but swings her bright attention up to you and murmurs, "Growing up, weekends somewhere safer meant my Dad grilling marinated steak on propane—which feels about a city away—what’d nostalgia feel like for you... back before hell marched in here?"
+
+> Ask her: what do you have on you?
+       
+Sure thing—you turn to Carley and quietly ask, “Ok, what do you have on you?” and Carley quietly checks her pockets before replying, **“Couple spare batteries, some paper and, duh, my piece.”1If-"Lead’s cheap now anyway, right?”**, she tosses you a tight half-smile and ducks her head guardingly.
+
+> Where can I go from where I am?
+       
+From your current spot in the Main Store, you can reach either the Front Entrance or the Storage Room. Which path calls to you first?
+
+> go to the storage room
+       
+Alright, so you creep through the battered storeroom door, only for the darting flicker of dusty remnants lining the shelves to flash a pale face through unforgiving light—a female zombie lurches forward right at you, snarling for the taste of memory and life, leaving your sanity clattering unpredictably in the cage of high, shuddered breaths as a struggle instantly erupts.
+
+> run away to the place I was before
+       
+Alright, you bolt back through the attached side door to the safety of the main store, abandoning the wigs of shattered inventory under flickering light—everyone takes a simultaneous startled step until Kenny asks urgently, "Are we in trouble?", to which silence grips the tight, fearful makeshift-lobby once more.
+
+> You ask everyone if they have a weapon on them
+       
+(ERROR: response could not be generated for storytelling.)
+
+> Ask Doug if he has a weapon on him   
+       
+Alright, here’s what happens: you approach Doug, tense but hopeful, and ask in a hushed voice if he’s got a weapon; Doug looks around stealthily, pulls an electronic gadget partway from his pocket and whispers, “Not much, mostly just this do-it-all lance thing I made… Lotsa wires and voltage to zap the creepy crawlies—better than housekeys, at least”—a tiny hope glowing amidst gripping dread in the drugstore gloom.
+
+> Ask him if he could fight a zombie with the lance
+       
+It seems you want to interact with the Angry Zombie, who is actually in the Front Entrance, not your current area. Please specify if you’d like to move to the Front Entrance first.  
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> ask doug if could fight a zombie with the lance
+       
+Action 1: Angry Zombie isn’t here — they’re in Front Entrance.
+
+> ask Doug to go fight the zombie in the storage room
+       
+You’re in the Main Store, but the Female Zombie is in the Storage Room. Please specify if you want to move to the Storage Room to carry out your action.
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> look for a weapon in the place you are
+       
+Action 1: Female Zombie isn’t here — they’re in Storage Room.
+
+> look for a weapon
+       
+Alright—you dig through ransacked shelves behind battered counters, even fleetingly shifting expired cereal boxes in hope of protection, but there's nothing but dust and splintered sale signs remaining, making time feel strangely vast, with Oy oy Lilly grumbles, "Hurry this up, we don't have all day and he's out of time."
+
+> ask lilly if she has a weapon
+... .  
+
+(System restart due to excessive response time)
+
+> go talk to doug
+       
+Do I understand correctly that you want to move to Main Store (where you already are)? Write yes to continue, anything else to cancel.
+
+> yes
+       
+You’re already in the Main Store, so moving there again isn’t necessary. Would you like to explore, talk to someone, or try something else instead?
+
+Please try again with a simpler, more precise command.
+
+> where am I?
+       
+You are standing in the Main Store of your family’s drugstore—a once busy place, now battered and eerily quiet. Around you are shelves, counters, and several familiar faces trying to survive together.
+
+> with whom are here?
+       
+You’re here in the Main Store with Carley, Clementine, Doug, Duck, Katjaa, Kenny, Larry, and Lilly. If you want details on any of them or want to interact, just let me know!
+
+> go talk to doug
+       
+Okay, you spot Doug fidgeting anxiously near the disaster of tumbled gifts and knees stacked antacid boxes, and as you approach and absently say, "Hey, Doug. Learn anything useful just now?” he grins mildly, pushing Alien-ringed glasses further, “Honestly, tension is killing everyone... But did hear a nasty sproing—got to reinforce…well heck, sorry…it’s LOUD surviving all over, isn’t it?”
+
+> ask for his lance
+       
+It seems Doug couldn't find an item called 'lance' because it doesn't exist or isn't known in this area. Could you specify another item you want Doug to interact with, or clarify what you meant by 'lance'?
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> do you have a weapon on you?
+       
+Action 1: Doug doesn’t see any item identified as 'weapon'.
+
+> what do you have on you?
+       
+You currently have Lee's Jeans, Lee's Shirt, and a flashlight (which needs batteries). Would you like to use or search for anything specific next?
+
+> What does doug have on himself?
+       
+At this moment, you do not know what specific items Doug is carrying. If you'd like, you can approach him and try searching his belongings or simply ask him about what he has.       
+
+> search dougs belongings
+       
+Do I understand correctly that you want to search Doug? Write yes to continue, anything else to cancel.
+
+> yes
+       
+Alright, you rifled through Doug’s modest stash and your hands found a bundle of tools jammed beneath his favorite hoodie—and, maybe catching your eye lingering over the find a bit too long, Doug shifts and half-smiles thinly, visibly less happy with you than before.
+
+> ask doug nicely what does he have
+       
+Alright, you stroll over to Doug, catching him geeking out over the spare batteries and wires he's collected, and gently ask, “So, Doug, what exactly do you have over there?”, making him smile nervously as he says, “Well, sort of stocked up—lots of gizmos, ROMS, stronger batteries this time… Guess I really wanted my inventions ‘endussed,’ you know?”, his voice trailing as excitement fills descriptive silence.
+
+> can you land me a battery for my flashlight?
+       
+It looks like Doug can't find a 'battery' because you haven't discovered or specified one in the area or anyone's inventory yet. Please indicate where you want to search for a battery, or if you want to ask someone specific about it.
+
+Type only the missing or corrected detail (a character, item, or place), or write 'cancel' to cancel.
+
+> ask doug for the battery he collected for my flashlight
+       
+Action 1: Doug doesn’t see any item identified as 'Item_Battery'.
+
+> ask doug if he has batteries 
+       
+(ERROR: response could not be generated for storytelling.)
+
+
+
+
+
+
+
+
+
+
